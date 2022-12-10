@@ -3,6 +3,7 @@ package uc3displayboard;
 import java.util.Scanner;
 
 public class TicTacToe {
+    
     static char[] board = new char[10];
     static char player, computer;
     static Scanner scan = new Scanner(System.in);
