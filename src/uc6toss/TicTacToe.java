@@ -4,6 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
     public class TicTacToe {
+        
         static char[] board = new char[10];//For board
         static char player, computer;//For assigning x or o
         static int playerLocation, computerLocation;//For player location
