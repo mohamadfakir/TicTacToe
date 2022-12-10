@@ -3,6 +3,7 @@ package uc4makemove;
 import java.util.Scanner;
 
 public class TicTacToe {
+        
         static char[] board = new char[10];
         static char player, computer;
         static int playerLocation;
